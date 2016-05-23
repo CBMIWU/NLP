@@ -3,7 +3,7 @@ NLP
 ===
 
 <h3>Project Description 
-
+==
 The goal of the clinical and translational research is to rapidly convert novel advances in basic science to improvements in patient care and relay findings from clinical studies employing such new and increasingly customized diagnostics and therapeutics back to the bench for further refinement of the disease management process. To realize this goal, the physician-scientist must be able to integrate diverse and complex biomedical data sets that include clinical information obtained from the patient with the results of routine laboratory tests, imaging, biospecimens, molecular profiling (e.g. microarray analysis, proteomics, lipidomics, etc.), and genome annotation information. Cider NLP project facilitate and encourage developing of new annotator, pipeline, collaborate on biomedical natural language processing systems and develop gold-standard corpora for development and testing. We have use open source UIMA framework as the basis for CIDER NLP project.
 
 <h3>Why Use CIDER NLP ?
