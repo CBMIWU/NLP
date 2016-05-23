@@ -19,10 +19,10 @@ Natural language processing (NLP) is a field of computer science, artificial int
 <h3>Sponsors
 ==
 Financial support for CBMI provided by:
-Washington University School of Medicine
-BJC Healthcare
-Institute of Clinical and Translational Sciences - Grant: 5UL1 TR000448-08 
-Alvin J. Siteman Cancer Center - Grant: P30 CA91842 - 14
-Washington University Kennedy Intellectual and Development Disabilities Research Center - Grant: P30  HD062171 
-Expansion of Symptoms of Lower Urinary Tract Dysfunction Research Network (LURN) - Grant: 1 U01 DK100017-02
-MacArthur Foundation Subcontract with Research Data Alliance. Moving in the Biomedical Big Data Sharing Forward: An Adoption of the RDA Dynamic Major Goal
+  - Washington University School of Medicine
+  - BJC Healthcare
+  - Institute of Clinical and Translational Sciences - Grant: 5UL1 TR000448-08 
+  - Alvin J. Siteman Cancer Center - Grant: P30 CA91842 - 14
+  - Washington University Kennedy Intellectual and Development Disabilities Research Center - Grant: P30  HD062171 
+  - Expansion of Symptoms of Lower Urinary Tract Dysfunction Research Network (LURN) - Grant: 1 U01 DK100017-02
+  - MacArthur Foundation Subcontract with Research Data Alliance. Moving in the Biomedical Big Data Sharing Forward: An Adoption of the RDA Dynamic Major Goal
